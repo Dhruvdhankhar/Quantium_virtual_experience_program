@@ -26,7 +26,7 @@
 
   #### Solution By Quantium:
 
-  - [Solution](https://github.com/Dhruvdhankhar/Quantium_virtual_experience_program/blob/main/Quantium%20Virtual%20Internship%20-%20Retail%20Strategy%20and%20Analytics_Task%201.pdf)
+  - [Task 1 Solution](https://github.com/Dhruvdhankhar/Quantium_virtual_experience_program/blob/main/Quantium%20Virtual%20Internship%20-%20Retail%20Strategy%20and%20Analytics_Task%201.pdf)
 
  
 
@@ -48,6 +48,9 @@
 - average number of transactions per customer.
 
 
+ #### Solution By Quantium:
+
+ - [Task 2 Solution](https://github.com/Dhruvdhankhar/Quantium_virtual_experience_program/blob/main/Quantium%20Virtual%20Internship%20-%20Retail%20Strategy%20and%20Analytics_Task%202.pdf)
 
 
 ### Task 3 - Analytics and Commercial Application:
@@ -72,6 +75,11 @@
 7. Layout and content display
 8. Summary / next steps
 
+
+#### Solution By Quantium:
+
+- [Cover Email](https://github.com/Dhruvdhankhar/Quantium_virtual_experience_program/blob/main/Task%203%20model%20answer%20-%20cover%20email%20to%20client.docx)
+- [Report](https://github.com/Dhruvdhankhar/Quantium_virtual_experience_program/blob/main/Retail%20Analytics%20-%20Task%203%20Model%20Answer.pdf)
 
 
 ### Pro analytics Tip:
