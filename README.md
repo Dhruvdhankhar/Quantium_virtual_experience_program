@@ -13,10 +13,10 @@
 
   #### Practical skills you will gain from working on this task:
 
-  -Data validation
-  -Data visualisation
-  -Data wrangling
-  -Programming
+  - Data validation
+  - Data visualisation
+  - Data wrangling
+  - Programming
   
   
   
