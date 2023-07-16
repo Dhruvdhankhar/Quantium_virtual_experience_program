@@ -22,6 +22,11 @@
   - Creating and interpreting high level summaries of the data.
   - Finding outliers and removing these.
   - Checking data formats and correcting.
+ 
+
+  #### Solution By Quantium:
+
+  - [Solution](Quantium Virtual Internship - Retail Strategy and Analytics_Task 1.pdf)
 
  
 
