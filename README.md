@@ -26,7 +26,7 @@
 
   #### Solution By Quantium:
 
-  - [Solution](Quantium Virtual Internship - Retail Strategy and Analytics_Task 1.pdf)
+  - [Solution](https://github.com/Dhruvdhankhar/Quantium_virtual_experience_program/blob/main/Quantium%20Virtual%20Internship%20-%20Retail%20Strategy%20and%20Analytics_Task%201.pdf)
 
  
 
